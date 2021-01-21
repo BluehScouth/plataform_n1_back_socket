@@ -56,7 +56,7 @@
     "@loopback/rest-explorer": "^1.1.23",
     "@loopback/service-proxy": "^1.1.11",
     "@types/socket.io": "^2.1.2",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "@loopback/build": "^1.5.5",
